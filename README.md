@@ -5,7 +5,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/j0k3r/graby/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/j0k3r/graby/?branch=master)
 
 Graby helps you extract article content from web pages.
-This is a fork of Full-Text RSS v3.3 from [@fivefilters](http://fivefilters.org/).
+This is a fork of Full-Text RSS v3.3 from [@fivefilters](http://fivefilters.org/)--based on PHP Readability.
 
 ## Why this fork ?
 
